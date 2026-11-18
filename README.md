@@ -73,7 +73,7 @@ painel-frequencia-matriculas/
 ├── dados/
 │   └── Base_Alunos_Consolidada_Anonimizada.xlsx
 └── powerbi/
-    └── (arquivo .pbix)
+    └── (painel_frequencia .pbix)
 ```
 
 ## Ferramentas
